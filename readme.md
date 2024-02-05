@@ -2,7 +2,7 @@
 
 <hr class="hr-double-arrow"/>
 
-本项目是由`VSCode`插件`EncounterPlus`启发而来的小工具，主要功能是将markdown文件转译为带CSS格式的网页。本文档的完整格式请查看[readme.html](readme.html)。
+本项目是由`VSCode`插件`EncounterPlus`启发而来的小工具，主要功能是将markdown文件转译为带CSS格式的网页。本文档的完整格式请查看[https://keithtsao.github.io/mdwithcss/](https://keithtsao.github.io/mdwithcss/)。
 
 > 其实这东西好像也没什么价值？毕竟markdown是速记工具不是画图工具。
 >
